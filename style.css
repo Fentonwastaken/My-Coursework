@@ -1,12 +1,14 @@
 .nav-item{background-color:lightblue;color: white}
 header{background-color: lightblue;color: white}
-footer{background-color: lightblue; text-align: center; padding: 10px;margin: 20px;color: white}
+footer{background-color: lightblue; text-align: center; padding: 10px;margin: 20px;color: white; }
 #Twitter{height: 70px; width: 320px; padding-left:30px;padding-right: 30px;padding-top: 10px }
 #Facebook{height: 70px; width: 320px; padding-left:30px; padding-right: 30px; padding-top:10px }
 #LinkedIn{height: 70px;width: 320px;padding-left: 30px;padding-right: 30px; padding-top: 10px}
 #Gmail{height: 70px;width: 320px; padding-left: 10px; padding-right: 10px;padding-top: 10px}
 #BT{height: 70px;width: 320px; padding-left: 10px; padding-right: 10px; padding-top: 10px}
 #FindMe{margin: 10px; padding-left: 80px;}
+#Para1{margin-left: 30px; margin-right: 30px;margin-top: 10px;margin-bottom: 10px}
+#Para2{margin-left: 30px; margin-right: 30px;}
 .jumbotron{text-align: center;background-color:lightblue;color: white}
 .card{margin: 10px}
 .card-text{text-align: center;}
